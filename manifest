@@ -1,8 +1,8 @@
-#appname: MyFirstApp2
-#publisher: anuragkondeya
-#url: 
-#image: appicon.png
-#appid: com.streethawktest.myfirstapp2
-#desc: undefined
-#type: ipad
-#guid: 949c6e61-60cc-403f-9777-cb8aab485aa0
+#appname:Sample
+#publisher:StreetHawk
+#url:https://www.streethawk.com
+#image:appicon.png
+#appid:com.streethawk.TiSample
+#desc:undefined
+#type:ipad
+#guid:ceea1602-5f33-4dcf-9333-ea7ab33c19a2

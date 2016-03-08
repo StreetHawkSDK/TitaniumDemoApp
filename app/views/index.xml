@@ -1,5 +1,16 @@
 <Alloy>
 	<Window class="container">
-		<Label id="label" onClick="doClick">Hello, World</Label>
+		<Button onClick="buttonShowVersionClicked" top="40">Show StreetHawk Library Version</Button>
+		<Button onClick="buttonInstallIdClicked" top="80">Show Install Id</Button>
+		<Button onClick="buttonItunesIdClicked" top="120">Show iTunes Id</Button>
+		<Button onClick="buttonTagClicked" top="160">Send Tags</Button>
+		<Button onClick="buttonSimpleFeedbackClicked" top="200">Send Simple Feedback</Button>
+		<Button onClick="buttonPageEnterExitClicked" top="240">Send Page Enter/Exit</Button>
+		<Button onClick="buttonShareCallbackClicked" top="280">Growth Share by Callback</Button>
+		<Button onClick="buttonShareByChannelClicked" top="320">Growth Share by Channel</Button>
+		<Button id="buttonPushEnable" onClick="buttonPushEnableClicked" top="360">Notification Enabled?</Button>
+		<Button id="buttonLocationEnable" onClick="buttonLocationEnableClicked" top="400">Location Enabled?</Button>
+		<Button onClick="buttonFetchFeedClicked" top="440">Fetch Feeds</Button>
+		<Button onClick="buttonFeedAckResultClicked" top="480">Send Feed Ack and Result</Button>
 	</Window>
 </Alloy>

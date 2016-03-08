@@ -1,1 +1,0 @@
-/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy/styles/index.js
