@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+    <id>com.streethawktest.myfirstapp2</id>
+    <name>MyFirstApp2</name>
+    <version>1.0</version>
+    <publisher>anuragkondeya</publisher>
+    <url/>
+    <description>undefined</description>
+    <copyright>2016 by anuragkondeya</copyright>
+    <icon>appicon.png</icon>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+    <guid>949c6e61-60cc-403f-9777-cb8aab485aa0</guid>
+    <property name="ti.ui.defaultunit" type="string">dp</property>
+    <ios>
+        <enable-launch-screen-storyboard>true</enable-launch-screen-storyboard>
+        <plist>
+            <dict>
+                <key>UISupportedInterfaceOrientations~iphone</key>
+                <array>
+                    <string>UIInterfaceOrientationPortrait</string>
+                </array>
+                <key>UISupportedInterfaceOrientations~ipad</key>
+                <array>
+                    <string>UIInterfaceOrientationPortrait</string>
+                    <string>UIInterfaceOrientationPortraitUpsideDown</string>
+                    <string>UIInterfaceOrientationLandscapeLeft</string>
+                    <string>UIInterfaceOrientationLandscapeRight</string>
+                </array>
+                <key>UIRequiresPersistentWiFi</key>
+                <false/>
+                <key>UIPrerenderedIcon</key>
+                <false/>
+                <key>UIStatusBarHidden</key>
+                <false/>
+                <key>UIStatusBarStyle</key>
+                <string>UIStatusBarStyleDefault</string>
+            </dict>
+        </plist>
+    </ios>
+    <android xmlns:android="http://schemas.android.com/apk/res/android"/>
+    <mobileweb>
+        <precache/>
+        <splash>
+            <enabled>true</enabled>
+            <inline-css-images>true</inline-css-images>
+        </splash>
+        <theme>default</theme>
+    </mobileweb>
+    <modules>
+        <module platform="commonjs">ti.cloud</module>
+        <module platform="android">com.streethawk.shanalytics</module>
+        <module platform="iphone">com.streethawk.shanalytics</module>
+        <module platform="iphone">com.streethawk.shbeacon</module>
+        <module platform="android">com.streethawk.shbeacon</module>
+        <module platform="android">com.streethawk.shgrowth</module>
+        <module platform="iphone">com.streethawk.shgrowth</module>
+        <module platform="android">com.streethawk.shpush</module>
+        <module platform="iphone">com.streethawk.shpush</module>
+        <module platform="android">com.streethawk.shfeeds</module>
+        <module platform="iphone">com.streethawk.shfeeds</module>
+        <module platform="android">com.streethawk.shgeofence</module>
+        <module platform="iphone">com.streethawk.shgeofence</module>
+        <module platform="android">com.streethawk.shlocations</module>
+        <module platform="iphone">com.streethawk.shlocations</module>
+    </modules>
+    <deployment-targets>
+        <target device="android">true</target>
+        <target device="ipad">true</target>
+        <target device="iphone">true</target>
+        <target device="mobileweb">true</target>
+        <target device="windows">false</target>
+    </deployment-targets>
+    <sdk-version>5.2.0.GA</sdk-version>
+    <plugins>
+        <plugin version="1.0">ti.alloy</plugin>
+    </plugins>
+    <property name="appc-app-id" type="string">56d900074600c43f143e423b</property>
+    <property name="acs-authbase-url-development" type="string">https://secure-identity.cloud.appcelerator.com</property>
+    <property name="acs-base-url-development" type="string">https://api.cloud.appcelerator.com</property>
+    <property name="acs-oauth-secret-development" type="string">OiLV8tzfJ4js9f4GNpfreqG4y7fOUrZn</property>
+    <property name="acs-oauth-key-development" type="string">m5MJ1vCdpGXYHQruZbjm8qjsXZ2J9uqH</property>
+    <property name="acs-api-key-development" type="string">4QkoXpVZkIgJVJaCU4XJAMbbu8h534DZ</property>
+    <property name="acs-username-development" type="string">appc_app_user_dev</property>
+    <property name="acs-password-development" type="string">ChxARLV6ExsPOy3v8n</property>
+    <property name="acs-authbase-url-production" type="string">https://secure-identity.cloud.appcelerator.com</property>
+    <property name="acs-base-url-production" type="string">https://api.cloud.appcelerator.com</property>
+    <property name="acs-oauth-secret-production" type="string">aTRdMVtyCLfQpsYNfrBh8TodIwPc0Ioh</property>
+    <property name="acs-oauth-key-production" type="string">W9r3sivAs4JFFtzCPXGdzlkE9Zy0Oap1</property>
+    <property name="acs-api-key-production" type="string">uit4YTHz9Y1XjgkTzFoDi0a1jDc9VyOP</property>
+    <property name="acs-username-production" type="string">appc_app_user</property>
+    <property name="acs-password-production" type="string">2lDjKvxVgxVO4UHB9I</property>
+    <property name="appc-org-id" type="string">100012940</property>
+    <property name="appc-creator-user-id" type="string">0d4b2d5e-b707-4fd9-bb2d-ee36b2e5fd35</property>
+</ti:app>

@@ -1,0 +1,840 @@
+
+3/8/2016, 11:40:38 AM
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.11.3
+  Architecture                = 64bit
+  # CPUs                      = 4
+  Memory                      = 8589934592
+
+Node.js
+  Node.js Version             = 4.0.0
+  npm Version                 = 2.14.2
+
+Titanium CLI
+  CLI Version                 = 5.0.6
+
+Titanium SDK
+  SDK Version                 = 5.2.0.GA
+  SDK Path                    = /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA
+  Target Platform             = android
+
+Command
+  /usr/local/bin/node /Users/anuragkondeya/.appcelerator/install/5.2.0/package/node_modules/titanium/lib/titanium.js build run --platform android --log-level trace --sdk 5.2.0.GA --project-dir /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2 --target device --android-sdk /Users/anuragkondeya/Android_SDK/adt-bundle-mac-x86_64-20131030/sdk --device-id 079f7edb0591f3a7 --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 60661 --config-file /var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/build-1457397633816.json --no-banner --project-dir /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2
+
+[DEBUG]  Detecting modules in /Users/anuragkondeya/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: com.streethawk.shanalytics 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shanalytics/1.7.0
+[DEBUG]  Detected android module: com.streethawk.shbeacon 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shbeacon/1.7.0
+[DEBUG]  Detected android module: com.streethawk.shfeeds 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shfeeds/1.7.0
+[DEBUG]  Detected android module: com.streethawk.shgeofence 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgeofence/1.7.0
+[DEBUG]  Detected android module: com.streethawk.shgrowth 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgrowth/1.7.0
+[DEBUG]  Detected android module: com.streethawk.shlocations 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shlocations/1.7.0
+[DEBUG]  Detected android module: com.streethawk.shpush 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0
+[DEBUG]  Detected android module: facebook 5.0.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/facebook/5.0.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.1 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.4.1
+[DEBUG]  Detected android module: ti.map 2.3.6 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/ti.map/2.3.6
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.10 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.10
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 2.0.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.0.0
+[DEBUG]  Detected iphone module: com.streethawk.shanalytics 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/com.streethawk.shanalytics/1.7.0
+[DEBUG]  Detected iphone module: com.streethawk.shbeacon 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/com.streethawk.shbeacon/1.7.0
+[DEBUG]  Detected iphone module: com.streethawk.shfeeds 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/com.streethawk.shfeeds/1.7.0
+[DEBUG]  Detected iphone module: com.streethawk.shgeofence 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/com.streethawk.shgeofence/1.7.0
+[DEBUG]  Detected iphone module: com.streethawk.shgrowth 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/com.streethawk.shgrowth/1.7.0
+[DEBUG]  Detected iphone module: com.streethawk.shlocations 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/com.streethawk.shlocations/1.7.0
+[DEBUG]  Detected iphone module: com.streethawk.shpush 1.7.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/com.streethawk.shpush/1.7.0
+[DEBUG]  Detected iphone module: facebook 5.0.1 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/facebook/5.0.1
+[DEBUG]  Detected iphone module: ti.coremotion 2.0.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.0.0
+[DEBUG]  Detected iphone module: ti.map 2.5.2 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/ti.map/2.5.2
+[DEBUG]  Detected iphone module: ti.safaridialog 1.0.5 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.0.5
+[DEBUG]  Detected iphone module: ti.touchid 1.2.0 @ /Users/anuragkondeya/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.2.0
+[DEBUG]  Looking for Titanium module id=ti.cloud version=latest platform=commonjs deploy-type=test
+[INFO]   Found Titanium module id=ti.cloud version=3.2.10 platform=commonjs deploy-type=test path=/Users/anuragkondeya/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.10
+[DEBUG]  Looking for Titanium module id=com.streethawk.shanalytics version=latest platform=android deploy-type=test
+[INFO]   Found Titanium module id=com.streethawk.shanalytics version=1.7.0 platform=android deploy-type=test path=/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shanalytics/1.7.0
+[DEBUG]  Looking for Titanium module id=com.streethawk.shbeacon version=latest platform=android deploy-type=test
+[INFO]   Found Titanium module id=com.streethawk.shbeacon version=1.7.0 platform=android deploy-type=test path=/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shbeacon/1.7.0
+[DEBUG]  Looking for Titanium module id=com.streethawk.shgrowth version=latest platform=android deploy-type=test
+[INFO]   Found Titanium module id=com.streethawk.shgrowth version=1.7.0 platform=android deploy-type=test path=/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgrowth/1.7.0
+[DEBUG]  Looking for Titanium module id=com.streethawk.shpush version=latest platform=android deploy-type=test
+[INFO]   Found Titanium module id=com.streethawk.shpush version=1.7.0 platform=android deploy-type=test path=/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0
+[DEBUG]  Looking for Titanium module id=com.streethawk.shfeeds version=latest platform=android deploy-type=test
+[INFO]   Found Titanium module id=com.streethawk.shfeeds version=1.7.0 platform=android deploy-type=test path=/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shfeeds/1.7.0
+[DEBUG]  Looking for Titanium module id=com.streethawk.shgeofence version=latest platform=android deploy-type=test
+[INFO]   Found Titanium module id=com.streethawk.shgeofence version=1.7.0 platform=android deploy-type=test path=/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgeofence/1.7.0
+[DEBUG]  Looking for Titanium module id=com.streethawk.shlocations version=latest platform=android deploy-type=test
+[INFO]   Found Titanium module id=com.streethawk.shlocations version=1.7.0 platform=android deploy-type=test path=/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shlocations/1.7.0
+[DEBUG]  Detecting plugins in /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/plugins
+[DEBUG]  Detected plugin: ti.alloy @ /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/plugins/ti.alloy
+[DEBUG]  Looking for Titanium plugin id=ti.alloy version=1.0
+[INFO]   Found Titanium plugin id=ti.alloy version=1.0 
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK Android directory: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android
+[INFO]   Deploy type: test
+[INFO]   Building for target: device
+[INFO]   Building for device: 079f7edb0591f3a7
+[INFO]   Targeting Android SDK API: 23
+[INFO]   Building for the following architectures: armeabi, armeabi-v7a, x86
+[INFO]   Signing with keystore: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/dev_keystore (tidev)
+[DEBUG]  App ID: com.streethawktest.myfirstapp2
+[DEBUG]  Classname: Myfirstapp2
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Forcing rebuild: JavaScript files need to be re-encrypted
+[INFO]   Found Alloy app in /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/app
+[INFO]   Executing Alloy compile: /usr/local/bin/node /Users/anuragkondeya/.appcelerator/install/5.2.0/package/node_modules/alloy/bin/alloy compile /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/app --config platform=android,version=0,simtype=none,devicefamily=none,deploytype=test,target=device --no-colors
+[DEBUG]         .__  .__                
+[DEBUG]  _____  |  | |  |   ____ ___.__.
+[DEBUG]  \__  \ |  | |  |  /  _ <   |  |
+[DEBUG]   / __ \|  |_|  |_(  <_> )___  |
+[DEBUG]  (____  /____/____/\____// ____|
+[DEBUG]       \/                 \/
+[DEBUG]  Alloy 1.7.33 by Appcelerator. The MVC app framework for Titanium.
+[DEBUG]  ----- CONFIGURATION -----
+[DEBUG]  raw config = "platform=android,version=0,simtype=none,devicefamily=none,deploytype=test,target=device"
+[DEBUG]  platform = android
+[DEBUG]  version = 0
+[DEBUG]  simtype = none
+[DEBUG]  devicefamily = none
+[DEBUG]  deploytype = test
+[DEBUG]  target = device
+[DEBUG]  project path = /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2
+[DEBUG]  app path = /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/app
+[DEBUG]  
+[DEBUG]  ----- CONFIG.JSON -----
+[DEBUG]  dependencies = {}
+[INFO]   [config.json] config.json unchanged, using cached config.json...
+[DEBUG]  {
+[DEBUG]  "dependencies": {},
+[DEBUG]  "sourcemap": true,
+[DEBUG]  "autoStyle": false,
+[DEBUG]  "adapters": [
+[DEBUG]  "localStorage",
+[DEBUG]  "properties",
+[DEBUG]  "sql"
+[DEBUG]  ]
+[DEBUG]  }
+[DEBUG]  
+[DEBUG]  ----- CLEANING RESOURCES -----
+[DEBUG]  Removing orphaned controllers ...
+[DEBUG]  Removing orphaned models ...
+[DEBUG]  Removing orphaned styles ...
+[DEBUG]  Removing orphaned sync adapters...
+[DEBUG]  Removing orphaned assets and libs...
+[DEBUG]  
+[DEBUG]  ----- BASE RUNTIME FILES -----
+[TRACE]  SRC_DIR=/Users/anuragkondeya/.appcelerator/install/5.2.0/package/node_modules/alloy/Alloy/lib
+[TRACE]  Copying SRC_DIR/alloy/sync/sql.js --> Resources/android/alloy/sync/sql.js
+[TRACE]  Copying SRC_DIR/alloy/sync/properties.js --> Resources/android/alloy/sync/properties.js
+[TRACE]  Copying SRC_DIR/alloy/sync/localStorage.js --> Resources/android/alloy/sync/localStorage.js
+[TRACE]  Copying SRC_DIR/alloy/controllers/BaseController.js --> Resources/android/alloy/controllers/BaseController.js
+[TRACE]  Copying SRC_DIR/alloy/widget.js --> Resources/android/alloy/widget.js
+[TRACE]  Copying SRC_DIR/alloy/underscore.js --> Resources/android/alloy/underscore.js
+[TRACE]  
+[TRACE]  Generating ../../../../../../Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy.js
+[TRACE]  SRC_DIR=/Users/anuragkondeya/.appcelerator/install/5.2.0/package/node_modules/alloy/Alloy/common
+[TRACE]  Copying SRC_DIR/constants.js --> Resources/android/alloy/constants.js
+[TRACE]  
+[TRACE]  SRC_DIR=/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/app/assets
+[TRACE]  
+[DEBUG]  
+[INFO]   ----- MVC GENERATION -----
+[INFO]   [global style] loading from cache...
+[INFO]   [index.xml] view processing...
+[INFO]   style:      "index.tss"
+[INFO]   view:       "index.xml"
+[INFO]   controller: "index.js"
+[TRACE]  - Processing "builtins" module...
+[TRACE]  - Processing "optimizer" module...
+[TRACE]  - Processing "compress" module...
+[INFO]   created:    "Resources/android/alloy/controllers/index.js"
+[DEBUG]  map:        "build/map/Resources/android/alloy/controllers/index.js.map"
+[INFO]   created:     "Resources/android/alloy/styles/index.js"
+[INFO]   
+[INFO]   
+[INFO]   [app.js] using cached app.js...
+[INFO]   
+[INFO]   ----- OPTIMIZING -----
+[INFO]   - android/alloy.js
+[TRACE]  processing "builtins" module...
+[TRACE]  processing "optimizer" module...
+[TRACE]  processing "compress" module...
+[INFO]   - android/alloy/sync/localStorage.js
+[TRACE]  processing "builtins" module...
+[TRACE]  processing "optimizer" module...
+[TRACE]  processing "compress" module...
+[INFO]   - android/alloy/sync/properties.js
+[TRACE]  processing "builtins" module...
+[TRACE]  processing "optimizer" module...
+[TRACE]  processing "compress" module...
+[INFO]   - android/alloy/sync/sql.js
+[TRACE]  processing "builtins" module...
+[TRACE]  processing "optimizer" module...
+[TRACE]  processing "compress" module...
+[TRACE]  
+[TRACE]  Benchmarking
+[TRACE]  ------------
+[TRACE]  [0.59935s] TOTAL
+[INFO]   
+[INFO]   Alloy compiled in 0.59935s
+[INFO]   Alloy compiler completed successfully
+[TRACE]  offline build file /var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/build-e9676d57b3c1f63fd980d408fd1a713206e6a1ab.json
+[TRACE]  online 1
+[TRACE]  sending request {"json":{"username":"anurag@streethawk.com","session":"3799b42ae09076eae43919b3a2144767d7a8a11b J8lqdeYZ8VpJE0iXOkajNBRZThm61ldy3+tVZ8P9Au/8LdeCJRUBesw3oO5NBpkLT/jcIYfIlO6iNUA3V2XzFJHkOvkgOpAvQT7hFV8tWKLja2FEifDQHj1LOahiFEUpEBlO56rVNtQ1hLm1TOOC2iP84kZoLsWPIYx8XaX52kB2ew+jYx8kuatQd/oIH44dRM+zhB1asZIZRd8Q88Xqa05Ck2nI4fBneZerjBz7HANwjLW6ehD0fFAscetHDyKUhx8UJZhVhWHxNaWUCze2xI8eluIm4pDreQLJfqkQuIChHUUokfyDVlpfG3PJjpAGUWFOiNGc/bSbLIVSsjZevDkuoZ/pyc+wZ2hku1a1rXqlwOVvB1GaQKYASgFzU1LDIpUAzHE8OYVoereu9gP9p/1RThoKmZZcpUMKzZCtPoplOb7sCnhPPZkVvrnLnbfWDIAKA1IvhYouLBLxisDNQh4QOj6Ir0YsDmJSqlh3RH+q9tvZ0r3dff2MPoi8AOPSSpmNCzac+sGH6HzHv/GuAYsxF+FHlQR8B0WIP7599sqJ/cSclYfyA3BXG2xzuNvDJCtt0WRkUr8zwsrwpSstzWiXg+6y5eg303DMKa2VmXKDaknJJnI5dqmEsUaIfZHY5HHvC+w/ltBw6QQZPaDaGPeSy45xn4wyiipoynn3XVZXVdmHioWNzHu+4wD5b9RJEUXV3Ur41yNLgIyVfUjmHvLNxvgd6FLqKPnyvaqueGjTbVX7cPHNyeLxgpBEN0RcBrGSkoasfsH6BHTvIjOuhQ==","ipaddress":"192.168.0.8","fingerprint":"4abc9b634ef645f8cc5a9b244ad6da3b17fc8d49","fingerprint_description":"Mac OSX Serial Number: C02LV0X1F6T5","guid":"949c6e61-60cc-403f-9777-cb8aab485aa0","appid":"com.streethawktest.myfirstapp2","name":"MyFirstApp2","org_id":100012940,"deploytype":"test","tiappxml":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ti:app \n  xmlns:ti=\"http://ti.appcelerator.org\">\n  <id>com.streethawktest.myfirstapp2</id>\n  <name>MyFirstApp2</name>\n  <version>1.0</version>\n  <publisher>anuragkondeya</publisher>\n  <url/>\n  <description>undefined</description>\n  <copyright>2016 by anuragkondeya</copyright>\n  <icon>appicon.png</icon>\n  <fullscreen>false</fullscreen>\n  <navbar-hidden>false</navbar-hidden>\n  <analytics>true</analytics>\n  <guid>949c6e61-60cc-403f-9777-cb8aab485aa0</guid>\n  <property name=\"ti.ui.defaultunit\" type=\"string\">dp</property>\n  <ios>\n    <enable-launch-screen-storyboard>true</enable-launch-screen-storyboard>\n    <plist>\n      <dict>\n        <key>UISupportedInterfaceOrientations~iphone</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n        </array>\n        <key>UISupportedInterfaceOrientations~ipad</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n          <string>UIInterfaceOrientationPortraitUpsideDown</string>\n          <string>UIInterfaceOrientationLandscapeLeft</string>\n          <string>UIInterfaceOrientationLandscapeRight</string>\n        </array>\n        <key>UIRequiresPersistentWiFi</key>\n        <false/>\n        <key>UIPrerenderedIcon</key>\n        <false/>\n        <key>UIStatusBarHidden</key>\n        <false/>\n        <key>UIStatusBarStyle</key>\n        <string>UIStatusBarStyleDefault</string>\n      </dict>\n    </plist>\n  </ios>\n  <android \n    xmlns:android=\"http://schemas.android.com/apk/res/android\"/>\n    <mobileweb>\n      <precache/>\n      <splash>\n        <enabled>true</enabled>\n        <inline-css-images>true</inline-css-images>\n      </splash>\n      <theme>default</theme>\n    </mobileweb>\n    <modules>\n      <module platform=\"commonjs\">ti.cloud</module>\n      <module platform=\"android\">com.streethawk.shanalytics</module>\n      <module platform=\"iphone\">com.streethawk.shanalytics</module>\n      <module platform=\"iphone\">com.streethawk.shbeacon</module>\n      <module platform=\"android\">com.streethawk.shbeacon</module>\n      <module platform=\"android\">com.streethawk.shgrowth</module>\n      <module platform=\"iphone\">com.streethawk.shgrowth</module>\n      <module platform=\"android\">com.streethawk.shpush</module>\n      <module platform=\"iphone\">com.streethawk.shpush</module>\n      <module platform=\"android\">com.streethawk.shfeeds</module>\n      <module platform=\"iphone\">com.streethawk.shfeeds</module>\n      <module platform=\"android\">com.streethawk.shgeofence</module>\n      <module platform=\"iphone\">com.streethawk.shgeofence</module>\n      <module platform=\"android\">com.streethawk.shlocations</module>\n      <module platform=\"iphone\">com.streethawk.shlocations</module>\n    </modules>\n    <deployment-targets>\n      <target device=\"android\">true</target>\n      <target device=\"ipad\">true</target>\n      <target device=\"iphone\">true</target>\n      <target device=\"mobileweb\">true</target>\n      <target device=\"windows\">false</target>\n    </deployment-targets>\n    <sdk-version>5.2.0.GA</sdk-version>\n    <plugins>\n      <plugin version=\"1.0\">ti.alloy</plugin>\n    </plugins>\n    <property name=\"appc-app-id\" type=\"string\">56d900074600c43f143e423b</property>\n    <property name=\"acs-authbase-url-development\" type=\"string\">***</property>\n    <property name=\"acs-base-url-development\" type=\"string\">***</property>\n    <property name=\"acs-oauth-secret-development\" type=\"string\">***</property>\n    <property name=\"acs-oauth-key-development\" type=\"string\">***</property>\n    <property name=\"acs-api-key-development\" type=\"string\">***</property>\n    <property name=\"acs-username-development\" type=\"string\">***</property>\n    <property name=\"acs-password-development\" type=\"string\">***</property>\n    <property name=\"acs-authbase-url-production\" type=\"string\">***</property>\n    <property name=\"acs-base-url-production\" type=\"string\">***</property>\n    <property name=\"acs-oauth-secret-production\" type=\"string\">***</property>\n    <property name=\"acs-oauth-key-production\" type=\"string\">***</property>\n    <property name=\"acs-api-key-production\" type=\"string\">***</property>\n    <property name=\"acs-username-production\" type=\"string\">***</property>\n    <property name=\"acs-password-production\" type=\"string\">***</property>\n    <property name=\"appc-org-id\" type=\"string\">100012940</property>\n    <property name=\"appc-creator-user-id\" type=\"string\">0d4b2d5e-b707-4fd9-bb2d-ee36b2e5fd35</property>\n  </ti:app>","modules":[{"id":"ti.cloud","platform":["commonjs"],"deployType":["test"],"modulePath":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.10","version":"3.2.10","manifest":{"version":"3.2.10","description":"Appcelerator Cloud Services","author":"Dawson Toth, Jeff English, Jon Alter, Paul Lv, Michael Goff, and Pedro Enrique","license":"Appcelerator Commercial License","copyright":"Copyright (c) 2011-2014 by Appcelerator,  Inc.","name":"ti.cloud","moduleid":"ti.cloud","guid":"1056b5d2-2bb5-4339-b930-297637aeec4e","platform":"commonjs","minsdk":"2.1.0"},"native":false,"libFile":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.10/ti.cloud.js"},{"id":"com.streethawk.shanalytics","platform":["android"],"deployType":["test"],"modulePath":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shanalytics/1.7.0","version":"1.7.0","manifest":{"version":"1.7.0","apiversion":"2","architectures":"armeabi armeabi-v7a x86","description":"analytics","author":"StreetHawk","license":"Specify your license","copyright":"Copyright (c) 2016 by Your Company","name":"analytics","moduleid":"com.streethawk.shanalytics","guid":"a7bbcc8b-0efb-4de8-9842-2b3af75d7000","platform":"android","minsdk":"5.2.0.GA"},"native":true,"jarName":"analytics.jar","jarFile":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shanalytics/1.7.0/analytics.jar","hash":"890235e3816a945d5ab38e3dac0a1748","abis":["armeabi","armeabi-v7a","x86"],"bindings":{"modules":{"com.streethawk.shanalytics.AnalyticsModule":{"apiName":"Analytics"}},"proxies":{"com.streethawk.shanalytics.AnalyticsModule":{"proxyClassName":"AnalyticsModule","methods":{"setAppKey":{"hasInvocation":false,"apiName":"setAppKey","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"appKey","name":"appKey","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"shiTunesId":{"hasInvocation":false,"apiName":"shiTunesId","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"id","name":"id","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"removeTag":{"hasInvocation":false,"apiName":"removeTag","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"key","name":"key","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"getCurrentFormattedDateTime":{"hasInvocation":false,"apiName":"getCurrentFormattedDateTime","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"java.lang.String"},"getInstallId":{"hasInvocation":false,"apiName":"getInstallId","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"java.lang.String"},"getFormattedDateTime":{"hasInvocation":false,"apiName":"getFormattedDateTime","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"time","name":"time","type":"long"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"java.lang.String"},"streethawkinit":{"hasInvocation":false,"apiName":"streethawkinit","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"tagDatetime":{"hasInvocation":false,"apiName":"tagDatetime","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"key","name":"key","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"value","name":"value","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"incrementTag":{"hasInvocation":false,"apiName":"incrementTag","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"key","name":"key","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"advertisementId":{"hasInvocation":false,"apiName":"advertisementId","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"id","name":"id","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"shDeeplinking":{"hasInvocation":false,"apiName":"shDeeplinking","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"java.lang.String"},"notifyViewEnter":{"hasInvocation":false,"apiName":"notifyViewEnter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"viewName","name":"viewName","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"registerEventCallBack":{"hasInvocation":false,"apiName":"registerEventCallBack","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"callback","name":"callback","type":"org.appcelerator.kroll.KrollFunction"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"enableLogs":{"hasInvocation":false,"apiName":"enableLogs","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"status","name":"status","type":"boolean"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"getSHLibraryVersion":{"hasInvocation":false,"apiName":"getSHLibraryVersion","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"java.lang.String"},"tagCuid":{"hasInvocation":false,"apiName":"tagCuid","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"cuid","name":"cuid","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"tagString":{"hasInvocation":false,"apiName":"tagString","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"key","name":"key","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"value","name":"value","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"example":{"hasInvocation":false,"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","apiName":"example","runOnUiThread":false,"converter":"org.appcelerator.kroll.KrollConverter","args":[],"name":"__default_name__","returnType":"java.lang.String"},"notifyViewExit":{"hasInvocation":false,"apiName":"notifyViewExit","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"viewName","name":"viewName","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"getAppKey":{"hasInvocation":false,"apiName":"getAppKey","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"java.lang.String"},"tagNumeric":{"hasInvocation":false,"apiName":"tagNumeric","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"key","name":"key","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"value","name":"value","type":"double"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"shSendSimpleFeedback":{"hasInvocation":false,"apiName":"shSendSimpleFeedback","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"title","name":"title","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"feedback","name":"feedback","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"}},"superProxyClassName":"KrollModule","superProxyBindingClassName":"org.appcelerator.kroll.KrollModuleBindingGen","proxyAttrs":{"proxyClassName":"com.streethawk.shanalytics.AnalyticsModule","id":"com.streethawk.shanalytics","propertyAccessors":[],"isTopLevel":false,"name":"Analytics","fullAPIName":"Analytics"},"packageName":"com.streethawk.shanalytics","dynamicProperties":{"exampleProp":{"setDefaultProviders":["org.appcelerator.kroll.KrollConverter"],"getMethodArgs":[],"get":true,"runOnUiThread":false,"set":true,"getHasInvocation":false,"getMethodName":"getExampleProp","getReturnType":"java.lang.String","setMethodArgs":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","sourceName":"value","converter":"org.appcelerator.kroll.KrollConverter","name":"value","type":"java.lang.String"}],"setReturnType":"void","javascriptConverter":"org.appcelerator.kroll.KrollConverter","getDefaultProviders":[],"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","name":"exampleProp","retain":true,"setMethodName":"setExampleProp","nativeConverter":"org.appcelerator.kroll.KrollConverter","setHasInvocation":false}},"sourceName":"com.streethawk.shanalytics.AnalyticsModuleBindingGen","superPackageName":"org.appcelerator.kroll","isModule":true,"genClassName":"AnalyticsModuleBindingGen","onAppCreate":"onAppCreate"}}}},{"id":"com.streethawk.shbeacon","platform":["android"],"deployType":["test"],"modulePath":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shbeacon/1.7.0","version":"1.7.0","manifest":{"version":"1.7.0","apiversion":"2","architectures":"armeabi armeabi-v7a x86","description":"beacon","author":"StreetHawk","license":"Specify your license","copyright":"Copyright (c) 2016 by Your Company","name":"beacon","moduleid":"com.streethawk.shbeacon","guid":"678df671-6929-4541-955b-20a2b991b07b","platform":"android","minsdk":"5.2.0.GA"},"native":true,"jarName":"beacon.jar","jarFile":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shbeacon/1.7.0/beacon.jar","hash":"51b8e2cc86f2c413517fb8316fb44b2d","abis":["armeabi","armeabi-v7a","x86"],"bindings":{"modules":{"com.streethawk.shbeacon.BeaconModule":{"apiName":"Beacon"}},"proxies":{"com.streethawk.shbeacon.BeaconModule":{"proxyClassName":"BeaconModule","methods":{"stopBeaconMonitoring":{"hasInvocation":false,"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","apiName":"stopBeaconMonitoring","runOnUiThread":false,"converter":"org.appcelerator.kroll.KrollConverter","args":[],"name":"__default_name__","returnType":"void"},"shEnterBeacon":{"hasInvocation":false,"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","apiName":"shEnterBeacon","runOnUiThread":false,"converter":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"uuid","name":"uuid","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"major","name":"major","type":"int"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"minor","name":"minor","type":"int"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"distance","name":"distance","type":"double"}],"name":"__default_name__","returnType":"void"},"shExitBeacon":{"hasInvocation":false,"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","apiName":"shExitBeacon","runOnUiThread":false,"converter":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"uuid","name":"uuid","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"major","name":"major","type":"int"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"minor","name":"minor","type":"int"}],"name":"__default_name__","returnType":"void"},"startBeaconMonitoring":{"hasInvocation":false,"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","apiName":"startBeaconMonitoring","runOnUiThread":false,"converter":"org.appcelerator.kroll.KrollConverter","args":[],"name":"__default_name__","returnType":"void"}},"superProxyClassName":"KrollModule","superProxyBindingClassName":"org.appcelerator.kroll.KrollModuleBindingGen","proxyAttrs":{"proxyClassName":"com.streethawk.shbeacon.BeaconModule","id":"com.streethawk.shbeacon","propertyAccessors":[],"isTopLevel":false,"name":"Beacon","fullAPIName":"Beacon"},"packageName":"com.streethawk.shbeacon","sourceName":"com.streethawk.shbeacon.BeaconModuleBindingGen","superPackageName":"org.appcelerator.kroll","isModule":true,"genClassName":"BeaconModuleBindingGen","onAppCreate":"onAppCreate"}}}},{"id":"com.streethawk.shgrowth","platform":["android"],"deployType":["test"],"modulePath":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgrowth/1.7.0","version":"1.7.0","manifest":{"version":"1.7.0","apiversion":"2","architectures":"armeabi armeabi-v7a x86","description":"growth","author":"StreetHawk","license":"Specify your license","copyright":"Copyright (c) 2016 by Your Company","name":"growth","moduleid":"com.streethawk.shgrowth","guid":"14e9b8a7-2264-4775-adb5-463131f26570","platform":"android","minsdk":"5.2.0.GA"},"native":true,"jarName":"growth.jar","jarFile":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgrowth/1.7.0/growth.jar","hash":"b366a7b01b016c22c71fac9ac52bc5b1","abis":["armeabi","armeabi-v7a","x86"],"bindings":{"modules":{"com.streethawk.shgrowth.GrowthModule":{"apiName":"Growth"}},"proxies":{"com.streethawk.shgrowth.GrowthModule":{"methods":{"addGrowthModule":{"hasInvocation":false,"apiName":"addGrowthModule","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"getShareUrlForAppDownload":{"hasInvocation":false,"apiName":"getShareUrlForAppDownload","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"ID","name":"ID","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"deeplink_uri","name":"deeplink_uri","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"utm_source","name":"utm_source","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"utm_medium","name":"utm_medium","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"utm_term","name":"utm_term","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"campaign_content","name":"campaign_content","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"default_url","name":"default_url","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"callback","name":"callback","type":"org.appcelerator.kroll.KrollFunction"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"originateShareWithCampaign":{"hasInvocation":false,"apiName":"originateShareWithCampaign","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"utm_campaign","name":"utm_campaign","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"URI","name":"URI","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"utm_source","name":"utm_source","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"utm_medium","name":"utm_medium","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"utm_term","name":"utm_term","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"campaign_content","name":"campaign_content","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"default_url","name":"default_url","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"callback","name":"callback","type":"org.appcelerator.kroll.KrollFunction"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"}},"proxyClassName":"GrowthModule","superProxyClassName":"KrollModule","proxyAttrs":{"proxyClassName":"com.streethawk.shgrowth.GrowthModule","id":"com.streethawk.shgrowth","propertyAccessors":[],"isTopLevel":false,"name":"Growth","fullAPIName":"Growth"},"superProxyBindingClassName":"org.appcelerator.kroll.KrollModuleBindingGen","packageName":"com.streethawk.shgrowth","sourceName":"com.streethawk.shgrowth.GrowthModuleBindingGen","genClassName":"GrowthModuleBindingGen","isModule":true,"superPackageName":"org.appcelerator.kroll","onAppCreate":"onAppCreate"}}}},{"id":"com.streethawk.shpush","platform":["android"],"deployType":["test"],"modulePath":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0","version":"1.7.0","manifest":{"version":"1.7.0","apiversion":"2","architectures":"armeabi armeabi-v7a x86","description":"push","author":"StreetHawk","license":"Specify your license","copyright":"Copyright (c) 2016 by Your Company","name":"push","moduleid":"com.streethawk.shpush","guid":"3a5d15a9-2a1a-416d-918f-92b67b9be97c","platform":"android","minsdk":"5.2.0.GA"},"native":true,"jarName":"push.jar","jarFile":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/push.jar","hash":"12e4d0d8706d3405a12fac452659a304","abis":["armeabi","armeabi-v7a","x86"],"bindings":{"modules":{"com.streethawk.shpush.PushModule":{"apiName":"Push","createProxies":[{"id":"com.streethawk.shpush.ExampleProxy","proxyClassName":"com.streethawk.shpush.ExampleProxy","propertyAccessors":[],"isTopLevel":false,"name":"Example","parentModule":"org.appcelerator.kroll.annotations.Kroll.DEFAULT","creatableInModule":"com.streethawk.shpush.PushModule","fullAPIName":"Push.Example"}]}},"proxies":{"com.streethawk.shpush.PushModule":{"proxyClassName":"PushModule","methods":{"registerAppPagecallBack":{"hasInvocation":false,"apiName":"registerAppPagecallBack","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"callback","name":"callback","type":"org.appcelerator.kroll.KrollFunction"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"shAlertSettings":{"hasInvocation":false,"apiName":"shAlertSettings","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"int"},"forcePushToNotificationBar":{"hasInvocation":false,"apiName":"forcePushToNotificationBar","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"status","name":"status","type":"boolean"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"registerForPushMessaging":{"hasInvocation":false,"apiName":"registerForPushMessaging","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"senderID","name":"senderID","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"getAppPage":{"hasInvocation":false,"apiName":"getAppPage","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"java.lang.String"},"setUseCustomDialog":{"hasInvocation":false,"apiName":"setUseCustomDialog","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"status","name":"status","type":"boolean"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"shGetAlertSettings":{"hasInvocation":false,"apiName":"shGetAlertSettings","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"int"},"registerPushResultCallback":{"hasInvocation":false,"apiName":"registerPushResultCallback","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"callback","name":"callback","type":"org.appcelerator.kroll.KrollFunction"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"sendPushResult":{"hasInvocation":false,"apiName":"sendPushResult","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"msgID","name":"msgID","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"pushResult","name":"pushResult","type":"int"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"example":{"hasInvocation":false,"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","apiName":"example","runOnUiThread":false,"converter":"org.appcelerator.kroll.KrollConverter","args":[],"name":"__default_name__","returnType":"java.lang.String"},"registerPushDataCallback":{"hasInvocation":false,"apiName":"registerPushDataCallback","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"callback","name":"callback","type":"org.appcelerator.kroll.KrollFunction"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"addPushModule":{"hasInvocation":false,"apiName":"addPushModule","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"isUsePush":{"hasInvocation":false,"apiName":"isUsePush","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"boolean"}},"superProxyClassName":"KrollModule","superProxyBindingClassName":"org.appcelerator.kroll.KrollModuleBindingGen","proxyAttrs":{"proxyClassName":"com.streethawk.shpush.PushModule","id":"com.streethawk.shpush","propertyAccessors":[],"isTopLevel":false,"name":"Push","fullAPIName":"Push"},"packageName":"com.streethawk.shpush","dynamicProperties":{"exampleProp":{"setDefaultProviders":["org.appcelerator.kroll.KrollConverter"],"getMethodArgs":[],"get":true,"runOnUiThread":false,"set":true,"getHasInvocation":false,"getMethodName":"getExampleProp","getReturnType":"java.lang.String","setMethodArgs":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","sourceName":"value","converter":"org.appcelerator.kroll.KrollConverter","name":"value","type":"java.lang.String"}],"setReturnType":"void","javascriptConverter":"org.appcelerator.kroll.KrollConverter","getDefaultProviders":[],"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","name":"exampleProp","retain":true,"setMethodName":"setExampleProp","nativeConverter":"org.appcelerator.kroll.KrollConverter","setHasInvocation":false}},"sourceName":"com.streethawk.shpush.PushModuleBindingGen","superPackageName":"org.appcelerator.kroll","isModule":true,"genClassName":"PushModuleBindingGen","onAppCreate":"onAppCreate"},"com.streethawk.shpush.ExampleProxy":{"proxyClassName":"ExampleProxy","methods":{"setMessage":{"hasInvocation":false,"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","apiName":"setMessage","runOnUiThread":false,"converter":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","sourceName":"message","converter":"org.appcelerator.kroll.KrollConverter","name":"message","type":"java.lang.String"}],"name":"__default_name__","returnType":"void"},"getMessage":{"hasInvocation":false,"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","apiName":"getMessage","runOnUiThread":false,"converter":"org.appcelerator.kroll.KrollConverter","args":[],"name":"__default_name__","returnType":"java.lang.String"},"printMessage":{"hasInvocation":false,"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","apiName":"printMessage","runOnUiThread":false,"converter":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","sourceName":"message","converter":"org.appcelerator.kroll.KrollConverter","name":"message","type":"java.lang.String"}],"name":"__default_name__","returnType":"void"}},"superProxyClassName":"TiViewProxy","superProxyBindingClassName":"org.appcelerator.titanium.proxy.TiViewProxyBindingGen","proxyAttrs":{"id":"com.streethawk.shpush.ExampleProxy","proxyClassName":"com.streethawk.shpush.ExampleProxy","propertyAccessors":[],"isTopLevel":false,"name":"Example","parentModule":"org.appcelerator.kroll.annotations.Kroll.DEFAULT","creatableInModule":"com.streethawk.shpush.PushModule","fullAPIName":"Push.Example"},"packageName":"com.streethawk.shpush","dynamicProperties":{"message":{"setDefaultProviders":["org.appcelerator.kroll.KrollConverter"],"getMethodArgs":[],"get":true,"runOnUiThread":false,"set":true,"getHasInvocation":false,"getMethodName":"getMessage","getReturnType":"java.lang.String","setMethodArgs":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","sourceName":"message","converter":"org.appcelerator.kroll.KrollConverter","name":"message","type":"java.lang.String"}],"setReturnType":"void","javascriptConverter":"org.appcelerator.kroll.KrollConverter","getDefaultProviders":[],"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","name":"message","retain":true,"setMethodName":"setMessage","nativeConverter":"org.appcelerator.kroll.KrollConverter","setHasInvocation":false}},"sourceName":"com.streethawk.shpush.ExampleProxyBindingGen","superPackageName":"org.appcelerator.titanium.proxy","isModule":false,"genClassName":"ExampleProxyBindingGen"}}}},{"id":"com.streethawk.shfeeds","platform":["android"],"deployType":["test"],"modulePath":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shfeeds/1.7.0","version":"1.7.0","manifest":{"version":"1.7.0","apiversion":"2","architectures":"armeabi armeabi-v7a x86","description":"feeds","author":"StreetHawk","license":"Specify your license","copyright":"Copyright (c) 2016 by Your Company","name":"feeds","moduleid":"com.streethawk.shfeeds","guid":"9e4e71eb-cf43-4e4e-806c-0a08808ce045","platform":"android","minsdk":"5.2.0.GA"},"native":true,"jarName":"feeds.jar","jarFile":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shfeeds/1.7.0/feeds.jar","hash":"ef50bdc967eb2820663571f03461b68f","abis":["armeabi","armeabi-v7a","x86"],"bindings":{"modules":{"com.streethawk.shfeeds.FeedsModule":{"apiName":"Feeds"}},"proxies":{"com.streethawk.shfeeds.FeedsModule":{"methods":{"readFeedData":{"hasInvocation":false,"apiName":"readFeedData","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"offset","name":"offset","type":"int"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"notifyFeedResult":{"hasInvocation":false,"apiName":"notifyFeedResult","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"feedID","name":"feedID","type":"int"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"result","name":"result","type":"int"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"registerFeedItemObserver":{"hasInvocation":false,"apiName":"registerFeedItemObserver","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"callback","name":"callback","type":"org.appcelerator.kroll.KrollFunction"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"sendFeedAck":{"hasInvocation":false,"apiName":"sendFeedAck","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"msgID","name":"msgID","type":"int"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"}},"proxyClassName":"FeedsModule","superProxyClassName":"KrollModule","proxyAttrs":{"proxyClassName":"com.streethawk.shfeeds.FeedsModule","id":"com.streethawk.shfeeds","propertyAccessors":[],"isTopLevel":false,"name":"Feeds","fullAPIName":"Feeds"},"superProxyBindingClassName":"org.appcelerator.kroll.KrollModuleBindingGen","packageName":"com.streethawk.shfeeds","sourceName":"com.streethawk.shfeeds.FeedsModuleBindingGen","genClassName":"FeedsModuleBindingGen","isModule":true,"superPackageName":"org.appcelerator.kroll","onAppCreate":"onAppCreate"}}}},{"id":"com.streethawk.shgeofence","platform":["android"],"deployType":["test"],"modulePath":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgeofence/1.7.0","version":"1.7.0","manifest":{"version":"1.7.0","apiversion":"2","architectures":"armeabi armeabi-v7a x86","description":"geofence","author":"StreetHawk","license":"Specify your license","copyright":"Copyright (c) 2016 by Your Company","name":"geofence","moduleid":"com.streethawk.shgeofence","guid":"11812ed5-2bd0-4764-b1da-a856c69dd847","platform":"android","minsdk":"5.2.0.GA"},"native":true,"jarName":"geofence.jar","jarFile":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgeofence/1.7.0/geofence.jar","hash":"c15450dcd371ea3eed6b92046428baba","abis":["armeabi","armeabi-v7a","x86"],"bindings":{"modules":{"com.streethawk.shgeofence.GeofenceModule":{"apiName":"Geofence"}},"proxies":{"com.streethawk.shgeofence.GeofenceModule":{"methods":{"stopMonitoring":{"hasInvocation":false,"apiName":"stopMonitoring","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"startGeofenceMonitoring":{"hasInvocation":false,"apiName":"startGeofenceMonitoring","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"startGeofenceWithPermissionDialog":{"hasInvocation":false,"apiName":"startGeofenceWithPermissionDialog","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"message","name":"message","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"}},"proxyClassName":"GeofenceModule","superProxyClassName":"KrollModule","proxyAttrs":{"proxyClassName":"com.streethawk.shgeofence.GeofenceModule","id":"com.streethawk.shgeofence","propertyAccessors":[],"isTopLevel":false,"name":"Geofence","fullAPIName":"Geofence"},"superProxyBindingClassName":"org.appcelerator.kroll.KrollModuleBindingGen","packageName":"com.streethawk.shgeofence","sourceName":"com.streethawk.shgeofence.GeofenceModuleBindingGen","genClassName":"GeofenceModuleBindingGen","isModule":true,"superPackageName":"org.appcelerator.kroll","onAppCreate":"onAppCreate"}}}},{"id":"com.streethawk.shlocations","platform":["android"],"deployType":["test"],"modulePath":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shlocations/1.7.0","version":"1.7.0","manifest":{"version":"1.7.0","apiversion":"2","architectures":"armeabi armeabi-v7a x86","description":"locations","author":"StreetHawk","license":"Specify your license","copyright":"Copyright (c) 2016 by Your Company","name":"locations","moduleid":"com.streethawk.shlocations","guid":"f7b8e453-cf12-4585-be8f-7a3d0aab42eb","platform":"android","minsdk":"5.2.0.GA"},"native":true,"jarName":"locations.jar","jarFile":"/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shlocations/1.7.0/locations.jar","hash":"1f786bafaa5b46e06f960ef7c7fe24a4","abis":["armeabi","armeabi-v7a","x86"],"bindings":{"modules":{"com.streethawk.shlocations.LocationsModule":{"apiName":"Locations"}},"proxies":{"com.streethawk.shlocations.LocationsModule":{"methods":{"reportWorkHomeLocationsOnly":{"hasInvocation":false,"apiName":"reportWorkHomeLocationsOnly","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"startLocationReporting":{"hasInvocation":false,"apiName":"startLocationReporting","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"startLocationWithPermissionDialog":{"hasInvocation":false,"apiName":"startLocationWithPermissionDialog","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"message","name":"message","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"stopLocationReporting":{"hasInvocation":false,"apiName":"stopLocationReporting","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"}},"proxyClassName":"LocationsModule","superProxyClassName":"KrollModule","proxyAttrs":{"proxyClassName":"com.streethawk.shlocations.LocationsModule","id":"com.streethawk.shlocations","propertyAccessors":[],"isTopLevel":false,"name":"Locations","fullAPIName":"Locations"},"superProxyBindingClassName":"org.appcelerator.kroll.KrollModuleBindingGen","packageName":"com.streethawk.shlocations","sourceName":"com.streethawk.shlocations.LocationsModuleBindingGen","genClassName":"LocationsModuleBindingGen","isModule":true,"superPackageName":"org.appcelerator.kroll","onAppCreate":"onAppCreate"}}}}]},"gzip":true,"followAllRedirects":true,"url":"https://security.appcelerator.com/build-verify"}
+[TRACE]  result from /build-verify=> {"key":"maomkPiPxNdyNN3ps6a6ng==","pepper":"CHNOJ14J6OScDjA3va9kqw==","hmacKey":"AhN69rbx32xyJ6rT/sj0Tg==","o":100012940,"u":"0d4b2d5e-b707-4fd9-bb2d-ee36b2e5fd35","p":"free","i":"56de1f8a2149890925005c66","success":true}, err=null
+[INFO]   JavaScript files need to be encrypted
+[DEBUG]  Copying /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources
+[DEBUG]  Ignoring /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android
+[DEBUG]  Copying /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android
+[WARN]   Overwriting file /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/assets/Resources/appicon.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/appicon.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/assets/Resources/appicon.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/default.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable/background.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/images/res-long-land-hdpi/default.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/images/res-long-land-ldpi/default.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/images/res-long-land-mdpi/default.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-long-land-mdpi/background.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/images/res-long-port-hdpi/default.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/images/res-long-port-ldpi/default.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/images/res-notlong-land-hdpi/default.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/images/res-notlong-land-ldpi/default.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/images/res-notlong-land-mdpi/default.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/images/res-notlong-port-hdpi/default.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/images/res-notlong-port-ldpi/default.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/images/res-notlong-port-mdpi/default.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG]  Copying /Users/anuragkondeya/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.10/ti.cloud.js
+[DEBUG]  Copying /Users/anuragkondeya/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.10/assets
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shaccept.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shaccept.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shapppage.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shapppage.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shbluetooth.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shbluetooth.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shcall.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shcall.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shcancel.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shcancel.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shenablepush.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shenablepush.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shfeedback.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shfeedback.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shlater.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shlater.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shlocation.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shlocation.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shrate.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shrate.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shsimplepush.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shsimplepush.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shupdate.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shupdate.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-hdpi/shwebsite.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/shwebsite.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shaccept.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shaccept.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shapppage.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shapppage.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shbluetooth.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shbluetooth.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shcall.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shcall.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shcancel.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shcancel.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shenablepush.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shenablepush.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shfeedback.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shfeedback.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shlater.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shlater.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shlocation.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shlocation.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shrate.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shrate.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shsimplepush.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shsimplepush.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shupdate.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shupdate.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-mdpi/shwebsite.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/shwebsite.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shaccept.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shaccept.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shapppage.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shapppage.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shbluetooth.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shbluetooth.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shcall.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shcall.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shcancel.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shcancel.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shenablepush.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shenablepush.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shfeedback.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shfeedback.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shlater.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shlater.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shlocation.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shlocation.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shrate.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shrate.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shsimplepush.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shsimplepush.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shupdate.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shupdate.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xhdpi/shwebsite.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/shwebsite.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shaccept.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shaccept.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shapppage.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shapppage.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shbluetooth.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shbluetooth.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shcall.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shcall.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shcancel.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shcancel.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shenablepush.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shenablepush.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shfeedback.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shfeedback.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shlater.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shlater.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shlocation.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shlocation.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shrate.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shrate.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shsimplepush.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shsimplepush.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shupdate.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shupdate.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/drawable-xxhdpi/shwebsite.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/shwebsite.png
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/layout/activity_shfeedback.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/layout/activity_shfeedback.xml
+[DEBUG]  Copying /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/values/dimens.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/dimens.xml
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/values/streethawkstrings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/streethawkstrings.xml
+[DEBUG]  Copying /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/values/strings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/strings.xml
+[DEBUG]  Copying /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/values-w820dp/dimens.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values-w820dp/dimens.xml
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/platform/android/res/values-w820dp/streethawkstrings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values-w820dp/streethawkstrings.xml
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/platform/android/res/drawable-hdpi/appicon.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-hdpi/appicon.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/platform/android/res/drawable-ldpi/appicon.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-ldpi/appicon.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/platform/android/res/drawable-mdpi/appicon.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-mdpi/appicon.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/platform/android/res/drawable-xhdpi/appicon.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xhdpi/appicon.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/platform/android/res/drawable-xxhdpi/appicon.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxhdpi/appicon.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/platform/android/res/drawable-xxxhdpi/appicon.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable-xxxhdpi/appicon.png
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/assets/Resources/appicon.png => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/drawable/appicon.png
+[INFO]   Processing JavaScript files
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy/CFG.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/alloy/CFG.js
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/app.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/app.js
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy/backbone.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/alloy/backbone.js
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy/constants.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/alloy/constants.js
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy/controllers/BaseController.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/alloy/controllers/BaseController.js
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy/controllers/index.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/alloy/controllers/index.js
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy/styles/index.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/alloy/styles/index.js
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy/sync/localStorage.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/alloy/sync/localStorage.js
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy/sync/properties.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/alloy/sync/properties.js
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy/sync/sql.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/alloy/sync/sql.js
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy/underscore.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/alloy/underscore.js
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy/widget.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/alloy/widget.js
+[DEBUG]  Symlinking /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/Resources/android/alloy.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/alloy.js
+[DEBUG]  Symlinking /Users/anuragkondeya/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.10/ti.cloud.js => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets/ti.cloud.js
+[INFO]   Encrypting JavaScript files: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/titanium_prep.macos "com.streethawktest.myfirstapp2" "/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/assets" "alloy/CFG.js" "app.js" "alloy/backbone.js" "alloy/constants.js" "alloy/controllers/BaseController.js" "alloy/controllers/index.js" "alloy/styles/index.js" "alloy/sync/localStorage.js" "alloy/sync/properties.js" "alloy/sync/sql.js" "alloy/underscore.js" "alloy/widget.js" "alloy.js" "ti.cloud.js" "_app_props_.json"
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/kroll-v8.jar
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-analytics.jar
+[DEBUG]  Adding dependency library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/aps-analytics.jar
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-android.jar
+[DEBUG]  Adding dependency library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/jaxen-1.1.1.jar
+[DEBUG]  Adding dependency library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/ti-commons-codec-1.3.jar
+[DEBUG]  Adding dependency library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/kroll-common.jar
+[DEBUG]  Adding dependency library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/titanium.jar
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-app.jar
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-ui.jar
+[DEBUG]  Adding dependency library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-filesystem.jar
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-media.jar
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-appcompat.jar
+[DEBUG]  Adding dependency library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/android-support-v4.jar
+[DEBUG]  Adding dependency library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/android-support-v7-appcompat.jar
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-cardview.jar
+[DEBUG]  Adding dependency library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/cardview-v7-23.0.1.jar
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-locale.jar
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-network.jar
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-xml.jar
+[DEBUG]  Unknown namespace app.deploytype, skipping
+[DEBUG]  Unknown namespace api, skipping
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-platform.jar
+[DEBUG]  Adding library /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-database.jar
+[DEBUG]  Unknown namespace platform.displaycaps, skipping
+[DEBUG]  Unknown namespace ui.ios, skipping
+[INFO]   Writing /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/assets/app.json
+[INFO]   Extracting module resources: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-analytics.res.zip
+[DEBUG]  Merging /var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-lkmbcz/res/values/strings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-android.res.zip
+[DEBUG]  Merging /var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-1h80rb0/res/values/strings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-app.res.zip
+[DEBUG]  Merging /var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-1ae237p/res/values/strings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-filesystem.res.zip
+[DEBUG]  Merging /var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-vkz3tp/res/values/strings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-media.res.zip
+[DEBUG]  Merging /var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-1jocnrv/res/values/strings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-locale.res.zip
+[DEBUG]  Merging /var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-13dq1ag/res/values/strings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-network.res.zip
+[DEBUG]  Merging /var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-jtvxuu/res/values/strings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-xml.res.zip
+[DEBUG]  Merging /var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-1bw6hej/res/values/strings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-platform.res.zip
+[DEBUG]  Merging /var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-1s0cl2n/res/values/strings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-database.res.zip
+[DEBUG]  Merging /var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-1edcise/res/values/strings.xml => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/strings.xml
+[DEBUG]  Removing old file: /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/.classpath
+[DEBUG]  Removing old file: /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/.gitignore
+[DEBUG]  Removing old file: /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/.project
+[DEBUG]  Removing old file: /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/AndroidManifest.xml
+[DEBUG]  Removing old file: /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/default.properties
+[DEBUG]  Removing old file: /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/java-sources.txt
+[DEBUG]  Copying template /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/templates/build/AppInfo.java => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/gen/com/streethawktest/myfirstapp2/Myfirstapp2AppInfo.java
+[DEBUG]  Copying template /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/templates/build/App.java => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/gen/com/streethawktest/myfirstapp2/Myfirstapp2Application.java
+[DEBUG]  Copying template /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/templates/build/Activity.java => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/gen/com/streethawktest/myfirstapp2/Myfirstapp2Activity.java
+[DEBUG]  Copying template /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/templates/build/project => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/.project
+[DEBUG]  Copying template /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/templates/build/default.properties => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/default.properties
+[DEBUG]  Copying /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/templates/build/gitignore => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/.gitignore
+[DEBUG]  Copying /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/templates/build/classpath => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/.classpath
+[INFO]   No aidl files to compile, continuing
+[INFO]   Generating i18n files
+[DEBUG]  Merging en strings => /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/strings.xml
+[INFO]   Generating /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res/values/theme.xml
+[INFO]   Packaging application: /Users/anuragkondeya/Android_SDK/adt-bundle-mac-x86_64-20131030/sdk/build-tools/23.0.2/aapt "package" "-f" "-m" "-J" "/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/gen" "-M" "/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/AndroidManifest.xml" "-A" "/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/assets" "-S" "/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/res" "-I" "/Users/anuragkondeya/Android_SDK/adt-bundle-mac-x86_64-20131030/sdk/platforms/android-23/android.jar" "-F" "/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/app.ap_" "--auto-add-overlay" "--extra-packages" "ti.modules.titanium.ui:android.support.v7.appcompat:android.support.v7.cardview" "-S" "/var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-1y4sgal/res" "-S" "/var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-8synvu/res" "-S" "/var/folders/wy/cx2drqrs3y74vf9qh6vm0yn80000gn/T/11628-17313-2qtii0/res"
+[INFO]   Building Java source files: /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/bin/javac "-J-Xmx1024M" "-encoding" "utf8" "-bootclasspath" "/Users/anuragkondeya/Android_SDK/adt-bundle-mac-x86_64-20131030/sdk/platforms/android-23/android.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/kroll-v8.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-analytics.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/aps-analytics.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-android.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/jaxen-1.1.1.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/ti-commons-codec-1.3.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/kroll-common.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/titanium.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-app.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-ui.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/nineoldandroids-appc-2.4.0.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-filesystem.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-media.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-appcompat.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/android-support-v4.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/android-support-v7-appcompat.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-cardview.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/cardview-v7-23.0.1.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-locale.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-network.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-xml.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-platform.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-database.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shanalytics/1.7.0/analytics.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shanalytics/1.7.0/lib/streethawkcore.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shbeacon/1.7.0/beacon.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shbeacon/1.7.0/lib/streethawkbeacon.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgrowth/1.7.0/growth.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgrowth/1.7.0/lib/streethawkgrowth.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/push.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/lib/google-play-services.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/lib/streethawkpush.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shfeeds/1.7.0/feeds.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shfeeds/1.7.0/lib/streethawkfeeds.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgeofence/1.7.0/geofence.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgeofence/1.7.0/lib/streethawkgeofence.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shlocations/1.7.0/locations.jar:/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shlocations/1.7.0/lib/streethawklocation.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/kroll-apt.jar:/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/lib/titanium-verify.jar:Manifest.class:R.class:AssetCryptImpl.class:Myfirstapp2Activity.class:Myfirstapp2AppInfo.class:Myfirstapp2Application.class" "-d" "/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/classes" "-proc:none" "-target" "1.6" "-source" "1.6" "@/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/java-sources.txt"
+[INFO]   Running dexer: /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/bin/java "-Xmx1024M" "-XX:-UseGCOverheadLimit" "-Djava.ext.dirs=/Users/anuragkondeya/Android_SDK/adt-bundle-mac-x86_64-20131030/sdk/platform-tools" "-jar" "/Users/anuragkondeya/Android_SDK/adt-bundle-mac-x86_64-20131030/sdk/build-tools/23.0.2/lib/dx.jar" "--dex" "--output=/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/classes.dex" "/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/classes" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/lib/titanium-verify.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shanalytics/1.7.0/analytics.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shanalytics/1.7.0/lib/streethawkcore.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shbeacon/1.7.0/beacon.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shbeacon/1.7.0/lib/streethawkbeacon.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgrowth/1.7.0/growth.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgrowth/1.7.0/lib/streethawkgrowth.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/push.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/lib/google-play-services.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/lib/streethawkpush.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shfeeds/1.7.0/feeds.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shfeeds/1.7.0/lib/streethawkfeeds.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgeofence/1.7.0/geofence.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgeofence/1.7.0/lib/streethawkgeofence.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shlocations/1.7.0/locations.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shlocations/1.7.0/lib/streethawklocation.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/kroll-v8.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-analytics.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/aps-analytics.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-android.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/jaxen-1.1.1.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/ti-commons-codec-1.3.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/kroll-common.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/titanium.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-app.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-ui.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/nineoldandroids-appc-2.4.0.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-filesystem.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-media.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-appcompat.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/android-support-v4.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/android-support-v7-appcompat.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-cardview.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/cardview-v7-23.0.1.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-locale.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-network.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-xml.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-platform.jar" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-database.jar"
+[INFO]   Creating unsigned apk
+[DEBUG]  Processing /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/app.ap_
+[DEBUG]  Deflating AndroidManifest.xml
+[DEBUG]  Adding assets/Resources/appicon.png
+[DEBUG]  Deflating assets/app.json
+[DEBUG]  Deflating assets/index.json
+[DEBUG]  Deflating res/anim/abc_fade_in.xml
+[DEBUG]  Deflating res/anim/abc_fade_out.xml
+[DEBUG]  Deflating res/anim/abc_grow_fade_in_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_popup_enter.xml
+[DEBUG]  Deflating res/anim/abc_popup_exit.xml
+[DEBUG]  Deflating res/anim/abc_shrink_fade_out_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_top.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_top.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color-v23/abc_color_highlight_material.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_light.xml
+[DEBUG]  Deflating res/color/abc_search_url_text.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_light.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_dark.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_light.xml
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shaccept.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shapppage.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shbluetooth.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shcall.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shcancel.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shenablepush.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shfeedback.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shlater.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shlocation.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shrate.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shsimplepush.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shupdate.png
+[DEBUG]  Adding res/drawable-hdpi-v4/shwebsite.png
+[DEBUG]  Adding res/drawable-ldpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-long-land-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-land-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-land-mdpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-port-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-port-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shaccept.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shapppage.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shbluetooth.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shcall.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shcancel.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shenablepush.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shfeedback.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shlater.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shlocation.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shrate.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shsimplepush.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shupdate.png
+[DEBUG]  Adding res/drawable-mdpi-v4/shwebsite.png
+[DEBUG]  Adding res/drawable-notlong-land-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-land-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-land-mdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-mdpi-v4/background.png
+[DEBUG]  Deflating res/drawable-v21/abc_action_bar_item_background_material.xml
+[DEBUG]  Deflating res/drawable-v21/abc_btn_colored_material.xml
+[DEBUG]  Deflating res/drawable-v23/abc_control_background_material.xml
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shaccept.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shapppage.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shbluetooth.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shcall.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shcancel.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shenablepush.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shfeedback.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shlater.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shlocation.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shrate.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shsimplepush.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shupdate.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/shwebsite.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shaccept.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shapppage.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shbluetooth.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shcall.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shcancel.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shenablepush.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shfeedback.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shlater.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shlocation.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shrate.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shsimplepush.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shupdate.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/shwebsite.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/appicon.png
+[DEBUG]  Deflating res/drawable/abc_btn_borderless_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_check_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_colored_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_default_mtrl_shape.xml
+[DEBUG]  Deflating res/drawable/abc_btn_radio_material.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_internal_bg.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_top_material.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_dark.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_light.xml
+[DEBUG]  Deflating res/drawable/abc_edit_text_material.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_ratingbar_full_material.xml
+[DEBUG]  Deflating res/drawable/abc_spinner_textfield_background_material.xml
+[DEBUG]  Deflating res/drawable/abc_switch_thumb_material.xml
+[DEBUG]  Deflating res/drawable/abc_tab_indicator_material.xml
+[DEBUG]  Deflating res/drawable/abc_text_cursor_material.xml
+[DEBUG]  Deflating res/drawable/abc_textfield_search_material.xml
+[DEBUG]  Adding res/drawable/appicon.png
+[DEBUG]  Adding res/drawable/background.png
+[DEBUG]  Adding res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding res/drawable/btn_more_64.png
+[DEBUG]  Adding res/drawable/disclosure_64.png
+[DEBUG]  Deflating res/layout-v17/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_search_view.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_big_media.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_big_media_narrow.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_lines.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_media.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_part_chronometer.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_part_time.xml
+[DEBUG]  Deflating res/layout-v21/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_title_item.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_up_container.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_view_list_nav_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_bar.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_close_item_material.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view_list_item.xml
+[DEBUG]  Deflating res/layout/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout/abc_expanded_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_checkbox.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_icon.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_radio.xml
+[DEBUG]  Deflating res/layout/abc_popup_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_screen_content_include.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple_overlay_action_mode.xml
+[DEBUG]  Deflating res/layout/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout/abc_search_dropdown_item_icons_2line.xml
+[DEBUG]  Deflating res/layout/abc_search_view.xml
+[DEBUG]  Deflating res/layout/abc_select_dialog_material.xml
+[DEBUG]  Deflating res/layout/activity_shfeedback.xml
+[DEBUG]  Deflating res/layout/notification_media_action.xml
+[DEBUG]  Deflating res/layout/notification_media_cancel_action.xml
+[DEBUG]  Deflating res/layout/notification_template_big_media.xml
+[DEBUG]  Deflating res/layout/notification_template_big_media_narrow.xml
+[DEBUG]  Deflating res/layout/notification_template_lines.xml
+[DEBUG]  Deflating res/layout/notification_template_media.xml
+[DEBUG]  Deflating res/layout/notification_template_part_chronometer.xml
+[DEBUG]  Deflating res/layout/notification_template_part_time.xml
+[DEBUG]  Deflating res/layout/select_dialog_item_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_multichoice_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_singlechoice_material.xml
+[DEBUG]  Deflating res/layout/support_simple_spinner_dropdown_item.xml
+[DEBUG]  Deflating res/layout/titanium_tabgroup.xml
+[DEBUG]  Deflating res/layout/titanium_ui_checkbox.xml
+[DEBUG]  Deflating res/layout/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_edittext.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_item.xml
+[DEBUG]  Deflating res/layout/titanium_ui_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_switchcompat.xml
+[DEBUG]  Deflating res/layout/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating resources.arsc
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shanalytics/1.7.0/analytics.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shanalytics/1.7.0/lib/streethawkcore.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shbeacon/1.7.0/beacon.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shbeacon/1.7.0/lib/streethawkbeacon.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgrowth/1.7.0/growth.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgrowth/1.7.0/lib/streethawkgrowth.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/push.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/lib/google-play-services.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shpush/1.7.0/lib/streethawkpush.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shfeeds/1.7.0/feeds.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shfeeds/1.7.0/lib/streethawkfeeds.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgeofence/1.7.0/geofence.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shgeofence/1.7.0/lib/streethawkgeofence.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shlocations/1.7.0/locations.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/modules/android/com.streethawk.shlocations/1.7.0/lib/streethawklocation.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/kroll-v8.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-analytics.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/aps-analytics.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-android.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/jaxen-1.1.1.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/ti-commons-codec-1.3.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/kroll-common.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/titanium.jar
+[DEBUG]  Deflating org/appcelerator/titanium/build.properties
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/background.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-app.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-ui.jar
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-filesystem.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-media.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-appcompat.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/android-support-v4.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/android-support-v7-appcompat.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-cardview.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/cardview-v7-23.0.1.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-locale.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-network.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-xml.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-platform.jar
+[DEBUG]  Processing /Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/modules/titanium-database.jar
+[DEBUG]  Adding classes.dex
+[INFO]   Processing /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/src
+[DEBUG]  Adding lib/armeabi/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi/libtiverify.so
+[DEBUG]  Adding lib/armeabi-v7a/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi-v7a/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi-v7a/libtiverify.so
+[DEBUG]  Adding lib/x86/libkroll-v8.so
+[DEBUG]  Adding lib/x86/libstlport_shared.so
+[DEBUG]  Adding lib/x86/libtiverify.so
+[DEBUG]  Adding lib/armeabi/libcom.streethawk.shanalytics.so
+[DEBUG]  Adding lib/armeabi-v7a/libcom.streethawk.shanalytics.so
+[DEBUG]  Adding lib/x86/libcom.streethawk.shanalytics.so
+[DEBUG]  Adding lib/armeabi/libcom.streethawk.shbeacon.so
+[DEBUG]  Adding lib/armeabi-v7a/libcom.streethawk.shbeacon.so
+[DEBUG]  Adding lib/x86/libcom.streethawk.shbeacon.so
+[DEBUG]  Adding lib/armeabi/libcom.streethawk.shgrowth.so
+[DEBUG]  Adding lib/armeabi-v7a/libcom.streethawk.shgrowth.so
+[DEBUG]  Adding lib/x86/libcom.streethawk.shgrowth.so
+[DEBUG]  Adding lib/armeabi/libcom.streethawk.shpush.so
+[DEBUG]  Adding lib/armeabi-v7a/libcom.streethawk.shpush.so
+[DEBUG]  Adding lib/x86/libcom.streethawk.shpush.so
+[DEBUG]  Adding lib/armeabi/libcom.streethawk.shfeeds.so
+[DEBUG]  Adding lib/armeabi-v7a/libcom.streethawk.shfeeds.so
+[DEBUG]  Adding lib/x86/libcom.streethawk.shfeeds.so
+[DEBUG]  Adding lib/armeabi/libcom.streethawk.shgeofence.so
+[DEBUG]  Adding lib/armeabi-v7a/libcom.streethawk.shgeofence.so
+[DEBUG]  Adding lib/x86/libcom.streethawk.shgeofence.so
+[DEBUG]  Adding lib/armeabi/libcom.streethawk.shlocations.so
+[DEBUG]  Adding lib/armeabi-v7a/libcom.streethawk.shlocations.so
+[DEBUG]  Adding lib/x86/libcom.streethawk.shlocations.so
+[INFO]   Writing unsigned apk: /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/app-unsigned.apk
+[INFO]   Using MD5withRSA signature algorithm
+[INFO]   Signing apk: /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/bin/jarsigner "-sigalg" "MD5withRSA" "-digestalg" "SHA1" "-keystore" "/Users/anuragkondeya/Library/Application Support/Titanium/mobilesdk/osx/5.2.0.GA/android/dev_keystore" "-storepass" "*******" "-signedjar" "/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/MyFirstApp2.apk" "/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/app-unsigned.apk" "tidev"
+[INFO]   Aligning zip file: /Users/anuragkondeya/Android_SDK/adt-bundle-mac-x86_64-20131030/sdk/build-tools/23.0.2/zipalign "-v" "4" "/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/MyFirstApp2.apk" "/Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/MyFirstApp2.apkz"
+[INFO]   Writing build manifest: /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/build-manifest.json
+[INFO]   Making sure the adb server is running
+[INFO]   Installing apk: /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/MyFirstApp2.apk
+[INFO]   Installing app on device: Nexus 5
+[TRACE]  Checking if package manager service is started
+[TRACE]  Package manager has started
+[TRACE]  Executing: /Users/anuragkondeya/Android_SDK/adt-bundle-mac-x86_64-20131030/sdk/platform-tools/adb -s 079f7edb0591f3a7 install -r /Users/anuragkondeya/AndroidStudioWorkspace/Titanium/MyFirstApp2/build/android/bin/MyFirstApp2.apk
+[INFO]   App successfully installed
+[INFO]   Starting app: com.streethawktest.myfirstapp2/.Myfirstapp2Activity
+[DEBUG]  Trying to start the app...
+[INFO]   Application pid: 29321
+[INFO]   Project built successfully in 1m 58s 304ms
